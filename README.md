@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**bielovarsen22/bielovarsen22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer interested in programming and IT.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 C++
+- 🎮 Minecraft Modding
+- 🧩 MCreator
+- 🧱 Blockbench
+- 🌐 Git & GitHub
+
+## 📚 Currently learning
+
+- C++
+- Object-Oriented Programming
+- Git & GitHub
+- 3D modeling
+
+## 🎯 Goals
+
+- Improve my programming skills
+- Create my own projects
+- Learn more about game development
+
+## 📫 Contact
+
+- GitHub: [bielovarsen22](https://github.com/bielovarsen22)
