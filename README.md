@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a beginner developer interested in programming and IT.
+I'm a Bielov Arsen.
 
 ## 🛠️ Skills
 
